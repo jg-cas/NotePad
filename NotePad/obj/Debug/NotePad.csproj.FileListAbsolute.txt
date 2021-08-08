@@ -1,0 +1,14 @@
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\bin\Debug\NotePad.exe
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\bin\Debug\NotePad.pdb
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.exe
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.pdb
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.Form2.resources
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.FindDialog.resources
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.ReplaceDialog.resources
+C:\Users\jgcjc\OneDrive\Documents\MSSA Assignments\NotePad\obj\Debug\NotePad.GoTo.resources
